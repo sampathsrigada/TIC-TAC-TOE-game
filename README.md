@@ -1,2 +1,3 @@
 # TIC-TAC-TOE-game
-A responsive Tic Tac Toe game built with HTML, CSS, and JavaScript featuring dynamic turn switching, winner detection, and draw handling.
+Tic Tac Toe is a simple two-player game built using HTML, CSS, and JavaScript.
+It features smooth turn switching, win detection, draw handling, and a clean modern UI.
